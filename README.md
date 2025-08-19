@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-# azure-sql-lab
-Documentação prática e detalhada sobre a configuração de instâncias SQL no Microsoft Azure, criada para o desafio DIO. Inclui resumos, dicas, passo a passo, imagens ilustrativas e materiais complementares para apoiar estudos e futuras implementações na nuvem.
-=======
-# Laboratório Azure SQL - DIO
-
-## Sobre o Projeto
-Este repositório documenta o processo de configuração de uma instância de Banco de Dados SQL na plataforma Microsoft Azure, conforme o desafio proposto pela DIO. Aqui você encontrará resumos, dicas, anotações e imagens para apoiar seus estudos e futuras implementações.
-
----
-
-## Índice
-- [Resumo do Azure SQL](#resumo-do-azure-sql)
-- [Passo a Passo: Criando Instância SQL no Azure](#passo-a-passo-criando-instância-sql-no-azure)
-- [Dicas e Boas Práticas](#dicas-e-boas-práticas)
-- [Materiais Complementares](#materiais-complementares)
-- [Imagens](#imagens)
-
----
-
-## Resumo do Azure SQL
-> Descreva aqui o que é o Azure SQL, principais características, vantagens e cenários de uso.
-
----
-
 <div align="center">
 
 # Azure SQL Lab – DIO ☁️🗄️
