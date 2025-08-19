@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# azure-sql-lab
+
 Documentação prática e detalhada sobre a configuração de instâncias SQL no Microsoft Azure, criada para o desafio DIO. Inclui resumos, dicas, passo a passo, imagens ilustrativas e materiais complementares para apoiar estudos e futuras implementações na nuvem.
 =======
 # Laboratório Azure SQL - DIO
@@ -91,7 +90,7 @@ Este repositório documenta o processo de configuração de uma instância de Ba
    ---
 
    ## Imagens
-   Aqui estão exemplos de imagens públicas que ilustram o processo de configuração do Azure SQL:
+ Exemplos de imagens públicas que ilustram o processo de configuração do Azure SQL:
 
    ![Azure Portal - Dashboard](https://learn.microsoft.com/en-us/azure/media/index/azure-portal-dashboard.png)
 
@@ -99,13 +98,12 @@ Este repositório documenta o processo de configuração de uma instância de Ba
 
    ![Configuração de Firewall SQL](https://learn.microsoft.com/en-us/azure/media/azure-sql/database-firewall-settings.png)
 
-   Você pode substituir essas imagens por capturas de tela próprias, se desejar.
+
 
    ---
 
    ## Autor
+   Leandro da Silva Stampini
    Projeto desenvolvido para o desafio DIO - Laboratório Azure SQL.
 
-   ---
 
-   > Sinta-se à vontade para personalizar este README com seus próprios resumos, dicas e imagens!
