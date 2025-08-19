@@ -99,13 +99,13 @@ Server=tcp:seu-servidor.database.windows.net,1433;Initial Catalog=seu_banco;Pers
 ## 🖼️ Imagens (oficiais)
 Imagens públicas da Microsoft para ilustrar as etapas e ferramentas:
 
-![Azure SQL Family](https://learn.microsoft.com/azure/azure-sql/media/azure-sql-family/azure-sql.png)
+![Azure SQL Family](https://learn.microsoft.com/en-us/azure/azure-sql/media/azure-sql-family/azure-sql.png)
 
-![Azure Portal - Dashboard](https://learn.microsoft.com/azure/media/index/azure-portal-dashboard.png)
+![Azure Portal - Dashboard](https://learn.microsoft.com/en-us/azure/media/index/azure-portal-dashboard.png)
 
-![Azure Data Studio](https://learn.microsoft.com/sql/azure-data-studio/media/what-is-azure-data-studio/azure-data-studio.png)
+![Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/media/what-is-azure-data-studio/azure-data-studio.png)
 
-![SQL Server Management Studio (SSMS)](https://learn.microsoft.com/sql/ssms/media/download-sql-server-management-studio-ssms/ssms.png)
+![SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/media/download-sql-server-management-studio-ssms/ssms.png)
 
 ---
 
